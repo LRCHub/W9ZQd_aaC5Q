@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "男の子の目的は何？",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-03-12T12:16:16.560289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "男の子の目的は何?",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_男の子の目的は何_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "男の子の目的は何？ (feat.高見沢アリサ)",
+      "artist": "HoneyWorks feat.高見沢アリサ(CV.東山奈央)",
+      "has_synced": true,
+      "path": "select/02_男の子の目的は何__(feat.高見沢アリサ)_HoneyWorks_feat.高見沢アリサ(CV.東山奈央).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "男の子の目的は何？",
+      "artist": "HoneyWorks feat. 高見沢アリサ(CV:東山奈央)",
+      "has_synced": true,
+      "path": "select/03_男の子の目的は何_HoneyWorks_feat._高見沢アリサ(CV_東山奈央).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "男の子の目的は何？",
+      "artist": "HoneyWorks feat.紫咲シオン",
+      "has_synced": true,
+      "path": "select/04_男の子の目的は何_HoneyWorks_feat.紫咲シオン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "男の子の目的は何？ (feat. 高見沢アリサ(CV:東山奈央))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_男の子の目的は何__(feat._高見沢アリサ(CV_東山奈央))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "男の子の目的は何？ (feat.高見沢アリサ)",
+      "artist": "HoneyWorks feat.高見沢アリサ(CV.東山奈央)",
+      "has_synced": true,
+      "path": "select/06_男の子の目的は何__(feat.高見沢アリサ)_HoneyWorks_feat.高見沢アリサ(CV.東山奈央).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "男の子の目的は何？",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_男の子の目的は何_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "男の子の目的は何？ (feat. 紫咲シオン)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_男の子の目的は何__(feat._紫咲シオン)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "男の子の目的は何？",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/09_男の子の目的は何_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "男の子の目的は何？ feat. 高見沢アリサ（CV：東山奈央）／ HoneyWorks",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/10_男の子の目的は何__feat._高見沢アリサ(CV_東山奈央)__HoneyWorks_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "男の子の目的は何?",
+      "artist": "HoneyWorks Feat. 紫咲シオン",
+      "has_synced": true,
+      "path": "select/11_男の子の目的は何_HoneyWorks_Feat._紫咲シオン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "男の子の目的は何?",
+      "artist": "HoneyWorks, 高見沢アリサ(CV:東山奈央)",
+      "has_synced": false,
+      "path": "select/pl_01_男の子の目的は何_HoneyWorks,_高見沢アリサ(CV_東山奈央).txt"
+    }
+  ]
+}
